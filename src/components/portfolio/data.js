@@ -11,7 +11,7 @@ export const projects = [
         description:
             "Take a peek behind the scenes at what makes this website tick. If you want to use it as a base for your own website, be sure to replace the ENV variables in the contact section.",
         image: Image1,
-        link: "https://github.com/paulwrivera",
+        link: "https://github.com/paulwrivera/personalwebsite",
     },
     {
         id: 2,
